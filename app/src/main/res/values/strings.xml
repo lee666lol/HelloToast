@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloToast</string>
+    <string name="Toast_text">Toast</string>
+    <string name="Zero">0</string>
+    <string name="ZERO_text">Zero</string>
+    <string name="Count_text">Count</string>
+    <string name="toast_message">LEE KA XIANG 19WMD10847</string>
+</resources>
